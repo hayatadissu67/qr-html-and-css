@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(200, 238, 223);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bigbox{
+    height: 550px;
+    width: 350px;
+    background-color: aliceblue;
+    border-radius: 13px;
+    margin-top: 150px;
+    margin-bottom: 200px;
+    
+}
+.image img{
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 19px; 
+    border-radius: 13px;
+}
+.note {
+    text-align: center;
+    padding: 20px;
+}
+.note h2{
+    font-family: arial;
+    font-size: 20px;
+
+}
